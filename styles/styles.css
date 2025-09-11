@@ -51,30 +51,33 @@
 
 
 
-/* Waters CSS */
+/* Commvault CSS */
 /* fonts */
---heading-font-family: acumin-pro, arial, sans-serif;
---body-font-family: acumin-pro, arial, sans-serif;
+--heading-font-family: "Galano Grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+--body-font-family: "Galano Grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
 --fixed-font-family: "Roboto Mono", menlo, consolas, "Liberation Mono", monospace;
 
 /* colors */
---text-color: #ffffff;
---link-color: #ffffff;
---link-hover-color: Invalid input color;
+--text-color: #000000;
+--link-color: #000000;
+
 --background-color: #ffffff;
 --overlay-background-color: #eeeeee;
 --highlight-background-color: #cccccc;
 
 /* sizes */
---heading-font-size-xxl: 38.4px;
---heading-font-size-xl: 23.04px;
---heading-font-size-l: 21.12px;
---heading-font-size-m: 19.2px;
---heading-font-size-s: 19.2px;
---heading-font-size-xs: 19.2px;
---body-font-size-xl: 32px;
---body-font-size-l: 19.2px;
---body-font-size-m: 16px;
+--heading-font-size-xxl: 57px;
+--heading-font-size-xl: 48px;
+--heading-font-size-l: 40px;
+--heading-font-size-m: 33px;
+--heading-font-size-s: 28px;
+--heading-font-size-xs: 23px;
+--body-font-size-xxl: 27.775px;
+--body-font-size-xl: 23px;
+--body-font-size-l: 19.998px;
+--body-font-size-m: 19px;
+--body-font-size-s: 13px;
+
 
 
  }
@@ -277,3 +280,4 @@ ol > li > ol {
 ol > li > ol > li > ol {
   list-style-type: lower-roman;
 }
+
